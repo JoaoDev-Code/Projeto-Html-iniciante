@@ -56,7 +56,7 @@ Nos próximos projetos, pretendo começar a aplicar **CSS** para trabalhar o des
 
 ## 👨‍💻 Autor
 
-**João Paneto**
+**João Arthur**
 
 Estudante de programação e desenvolvedor em formação.
 
